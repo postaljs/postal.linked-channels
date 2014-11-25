@@ -1,0 +1,27 @@
+{
+    "name": "postal.js",
+    "repo": "postaljs/postal.js",
+    "description": "postal.js add-on enabling forwarding from one channel/topic to another.",
+    "version": "0.1.0",
+    "keywords": [
+        "pub/sub",
+        "pub",
+        "sub",
+        "messaging",
+        "message",
+        "bus",
+        "event",
+        "eventing",
+        "mediator",
+        "broker",
+        "envelope",
+        "channel",
+        "linked"
+    ],
+    "dependencies": {
+        "component/lodash": "*",
+        "postaljs/postal.js": "~0.11.0"
+    },
+    "scripts": ["lib/postal.linked-channels.min.js", "lib/postal.linked-channels.js"],
+    "license": "MIT"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "postal.linked-channels",
+    "version": "0.1.0",
+    "description": "postal.js add-on enabling forwarding from one channel/topic to another.",
+    "homepage": "https://github.com/postaljs/postal.linked-channels",
+    "keywords": [
+        "pub/sub",
+        "pub",
+        "sub",
+        "messaging",
+        "message",
+        "bus",
+        "event",
+        "eventing",
+        "mediator",
+        "broker",
+        "envelope",
+        "channel",
+        "linked"
+    ],
+    "author": "Jim Cowart <jim@ifandelse.com>",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/postaljs/postal.js.git"
+    },
+    "main": [
+        "lib/postal.linked-channels.min.js",
+        "lib/postal.linked-channels.js"
+    ],
+    "dependencies": {
+        "lodash": "~2.4.1",
+        "postal.js": "~0.11.0"
+    },
+    "devDependencies": {
+        "jquery": "~1.10.2",
+        "bootstrap": "~3.0.3",
+        "expect": "0.1.2",
+        "mocha": "~1.17.0",
+        "requirejs": "~2.1.10",
+        "postal.diagnostics": "~0.7.3"
+    }
+}
