@@ -1,7 +1,7 @@
 {
-  "name": "postal",
+  "name": "postal.linked-channels",
   "description": "postal.js add-on enabling forwarding from one channel/topic to another.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://github.com/postaljs/postal.linked-channels",
   "repository": {
     "type": "git",

@@ -1,5 +1,5 @@
 #postal.linked-channels
-##v0.1.0
+##v0.1.1
 
 ###What Is It?
 This behavior used to live in the core [postal.js]() library, but was pulled out to live in an add-on as of postal.js v0.11.0. If you're using an earlier version of postal than that, you won't need this add-on. However, if you still want to be able to link channels and you're on postal v0.11 or greater, you'll need to include this in your project.
